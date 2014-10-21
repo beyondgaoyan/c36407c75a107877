@@ -1,0 +1,10 @@
+config.php
+web/temp
+web/data/afficheimg
+web/data/brandlogo
+web/data/captcha
+web/data/cardimg
+web/data/packimg
+web/demo
+web/images
+web/install
